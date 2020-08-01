@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/horizontalscrolling/static/css/main.d1c43e84.chunk.css",
-    "main.js": "/horizontalscrolling/static/js/main.b33b2e2b.chunk.js",
-    "main.js.map": "/horizontalscrolling/static/js/main.b33b2e2b.chunk.js.map",
+    "main.js": "/horizontalscrolling/static/js/main.c70d7beb.chunk.js",
+    "main.js.map": "/horizontalscrolling/static/js/main.c70d7beb.chunk.js.map",
     "runtime-main.js": "/horizontalscrolling/static/js/runtime-main.a1a33996.js",
     "runtime-main.js.map": "/horizontalscrolling/static/js/runtime-main.a1a33996.js.map",
     "static/css/2.af3c1da9.chunk.css": "/horizontalscrolling/static/css/2.af3c1da9.chunk.css",
     "static/js/2.65408416.chunk.js": "/horizontalscrolling/static/js/2.65408416.chunk.js",
     "static/js/2.65408416.chunk.js.map": "/horizontalscrolling/static/js/2.65408416.chunk.js.map",
     "index.html": "/horizontalscrolling/index.html",
-    "precache-manifest.fa98ce2f3e694cb10fdbe8f8cc01e87e.js": "/horizontalscrolling/precache-manifest.fa98ce2f3e694cb10fdbe8f8cc01e87e.js",
+    "precache-manifest.fb4971e58a8ee8940eeecdbb09c23bd2.js": "/horizontalscrolling/precache-manifest.fb4971e58a8ee8940eeecdbb09c23bd2.js",
     "service-worker.js": "/horizontalscrolling/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/horizontalscrolling/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.d1c43e84.chunk.css.map": "/horizontalscrolling/static/css/main.d1c43e84.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.65408416.chunk.js",
     "static/css/main.d1c43e84.chunk.css",
-    "static/js/main.b33b2e2b.chunk.js"
+    "static/js/main.c70d7beb.chunk.js"
   ]
 }
